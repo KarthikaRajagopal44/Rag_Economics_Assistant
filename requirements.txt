@@ -1,0 +1,7 @@
+streamlit==1.32.0
+PyMuPDF==1.23.26
+numpy==1.26.4
+faiss-cpu==1.7.4
+langchain-core>=0.1.41,<0.2.0
+langchain-groq==0.1.1
+sentence-transformers==2.5.1 
